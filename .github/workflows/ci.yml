@@ -94,4 +94,4 @@ jobs:
           context: ./
           file: ./Dockerfile
           push: true
-          tags: norhtamerica-northeast1-docker.pkg.dev/sodium-inkwell-451800-r1/dockerartifactrepository/app:v1
+          tags: us-east4-docker.pkg.dev/cs-1660-a2/cs-1660-a2-repo
