@@ -75,7 +75,7 @@ jobs:
         name: Authenticate to GCP
         with:
           project_id: 'cs-1660-a2' # update with your project ID
-          workload_identity_provider: 'projects/978062751860/locations/global/workloadIdentityPools/github-actions/providers/pitt-cs-1660' # update with your Workload Identity Pool
+          workload_identity_provider: 'projects/978062751860/locations/global/workloadIdentityPools/github-actions/providers/Clester31' # update with your Workload Identity Pool
 
       # configure/login with docker
       - name: gcloud Configure Docker
